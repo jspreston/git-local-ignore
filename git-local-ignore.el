@@ -3,6 +3,8 @@
 ;; Copyright (C) 2016  Sam Preston
 
 ;; Author: Sam Preston <jsam@sci.utah.edu>
+;; Version: 0.1
+;; Package-Requires ((git "1.0") (f "0.15.0"))
 ;; Keywords: vc
 
 ;; This program is free software; you can redistribute it and/or modify
